@@ -1,0 +1,2 @@
+# testinit
+test init
